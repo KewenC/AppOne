@@ -78,7 +78,8 @@
             android:id="@+id/et"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="请输入命令"/>
+            android:hint="请输入命令"
+            android:text="0001:00:00,42.50,38.50;"/>
         <Button
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
